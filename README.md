@@ -60,16 +60,17 @@ Contains **1.6 million tweets** labeled as:
 ```bash
 git clone https://github.com/[YOUR_USERNAME]/Twitter-Sentiment-Analysis.git
 cd Twitter-Sentiment-Analysis
+```
 
 ### 2. Install requirements
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn wordcloud nltk
-
+```
 ### 3. Download NLTK resources
 
 In Python:
 
-```python
+```bash
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
