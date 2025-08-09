@@ -26,9 +26,9 @@ In the age of social media, public opinion moves faster than ever.
 Businesses, researchers, and policymakers can no longer afford to guess what people think. They need real-time, data-driven sentiment insights.
 
 I wanted to create a tool that:
-- Helps brands track customer satisfaction 💼  
-- Enables researchers to measure public mood 📚  
-- Lets anyone explore *how the internet feels* in a given moment 🌎  
+- Helps brands track customer satisfaction   
+- Enables researchers to measure public mood   
+- Lets anyone explore *how the internet feels* in a given moment   
 
 ---
 
