@@ -5,6 +5,8 @@ Every second, thousands of people share their thoughts on Twitter about politics
 But what if you could *instantly* understand the mood behind all those tweets?  
 This project transforms noisy, unstructured Twitter text into clear **positive**, **negative**, and **neutral** insights using the power of **Natural Language Processing (NLP)** and **Machine Learning**.
 
+<img width="800" height="355" alt="image" src="https://github.com/user-attachments/assets/9daff7a0-723b-458a-8add-760cc1a8d9ae" />
+
 ---
 
 ## 📖 What is this project about?
