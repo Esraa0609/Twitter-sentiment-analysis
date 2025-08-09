@@ -68,8 +68,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn wordcloud nltk
 ```
 ### 3. Download NLTK resources
 
-In Python:
-
 ```bash
 import nltk
 nltk.download('stopwords')
