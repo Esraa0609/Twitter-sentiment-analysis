@@ -84,14 +84,10 @@ jupyter notebook Twitter_Sentiment_Analysis.ipynb
 
 ## 📊 Dataset
 
-* **Source**: \[Insert dataset source or link]
+* **Source**: [Sentiment140 (Kaggle)](https://www.kaggle.com/datasets/kazanova/sentiment140)
 * **Description**: This dataset contains tweets labeled with sentiment categories (e.g., positive, negative, neutral).
-* **Size**: \[Insert number of records]
-* **Features**:
-
-  * `text` – The tweet content
-  * `sentiment` – The sentiment label assigned to the tweet
-
+* **Size**: It contains 1,600,000 tweets extracted using the twitter api.
+  
 ---
 
 ## 🧠 Methodology
