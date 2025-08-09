@@ -41,9 +41,6 @@ Contains **1.6 million tweets** labeled as:
 - `2` — Neutral 😐  
 - `4` — Positive 😄  
 
-Files used:
-- `twitter_data.csv` — Tweets and sentiment labels  
-
 ---
 
 ## 🔥 Features
