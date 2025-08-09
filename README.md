@@ -98,22 +98,9 @@ jupyter notebook Twitter_Sentiment_Analysis.ipynb
 - Build an interactive **web app** with Streamlit or Flask 🖥️  
 - Integrate **Twitter API v2** for real-time tweet fetching 🔄  
 - Add support for **multiple languages** 🌍
-- 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.  
-Feel free to fork, modify, and share!
 
 ---
 
-## 🙌 Acknowledgements
-
-- The open-source Python community for tools like Pandas, scikit-learn, NLTK, and Matplotlib 💡  
-- Everyone working on **NLP** to make language understanding better every day 💖  
-
----
 
 ## 🌟 Love data + code?
 
