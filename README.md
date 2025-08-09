@@ -23,7 +23,7 @@ We combine:
 ## 🧠 Why I built this
 
 In the age of social media, public opinion moves faster than ever.  
-Businesses, researchers, and policymakers can no longer afford to guess what people think — they need real-time, data-driven sentiment insights.
+Businesses, researchers, and policymakers can no longer afford to guess what people think. They need real-time, data-driven sentiment insights.
 
 I wanted to create a tool that:
 - Helps brands track customer satisfaction 💼  
