@@ -1,7 +1,7 @@
-# 🐦 Twitter Sentiment Analysis 💬
+# 📱🐦 Twitter Sentiment Analysis 💬
 **Decoding emotions, one tweet at a time.**
 
-Every second, thousands of people share their thoughts on Twitter — about politics, products, movies, and life itself.  
+Every second, thousands of people share their thoughts on Twitter about politics, products, movies, and life itself.  
 But what if you could *instantly* understand the mood behind all those tweets?  
 This project transforms noisy, unstructured Twitter text into clear **positive**, **negative**, and **neutral** insights using the power of **Natural Language Processing (NLP)** and **Machine Learning**.
 
