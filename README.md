@@ -82,47 +82,6 @@ jupyter notebook Twitter_Sentiment_Analysis.ipynb
 
 ---
 
-## 📊 Dataset
-
-* **Source**: [Sentiment140 (Kaggle)](https://www.kaggle.com/datasets/kazanova/sentiment140)
-* **Description**: This dataset contains tweets labeled with sentiment categories (e.g., positive, negative, neutral).
-* **Size**: It contains 1,600,000 tweets extracted using the twitter api.
-  
----
-
-## 🧠 Methodology
-
-1. **Data Loading** – Load dataset and perform initial inspection.
-2. **Data Cleaning** – Remove URLs, punctuation, numbers, and stopwords.
-3. **Tokenization** – Split tweets into individual tokens (words).
-4. **Visualization** – Generate word clouds and sentiment distribution plots.
-5. **Feature Extraction** – Use TF-IDF vectorization to convert text into numerical form.
-6. **Model Training** – Apply machine learning models (e.g., Logistic Regression, Naive Bayes).
-7. **Evaluation** – Assess accuracy, precision, recall, and F1-score.
-
----
-
-## 📈 Results
-
-| Model               | Accuracy | Precision | Recall | F1-score |
-| ------------------- | -------- | --------- | ------ | -------- |
-| Logistic Regression | \[xx%]   | \[xx%]    | \[xx%] | \[xx%]   |
-| Naive Bayes         | \[xx%]   | \[xx%]    | \[xx%] | \[xx%]   |
-
-*(Replace `[xx%]` with actual values from your results.)*
-
----
-
-## 📌 Example Output
-
-**Sentiment Distribution:**
-![Sentiment Distribution Plot](images/sentiment_distribution.png)
-
-**Word Cloud Example:**
-![Word Cloud](images/wordcloud.png)
-
----
-
 ## 🛠 Technologies Used
 
 * **Python** – Core programming language
